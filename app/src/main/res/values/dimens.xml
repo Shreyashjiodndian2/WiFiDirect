@@ -15,6 +15,11 @@
   limitations under the License.
  -->
 <resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
     <dimen name="tablet_list_width">300dp</dimen>
     <dimen name="phone_list_height">200dp</dimen>
     
